@@ -1,0 +1,2323 @@
+{
+    "Models": [
+        {
+            "Model": "iPhone (1st generation)",
+            "Description": "The original iPhone that revolutionized the smartphone industry with its multi-touch interface and sleek design.",
+            "Highlights": [
+                "3.5-inch multi-touch display",
+                "2MP rear camera",
+                "Revolutionary user interface"
+            ],
+            "Specifications": {
+                "General": {
+                    "Release Date": "June 2007",
+                    "Form Factor": "Touchscreen",
+                    "Dimensions": "115 x 61 x 11.6 mm",
+                    "Weight": "135 grams",
+                    "Colours": "Silver, Black"
+                },
+                "Display": {
+                    "Type": "LCD",
+                    "Size": "3.5 inches",
+                    "Resolution": "320 x 480 pixels",
+                    "Aspect Ratio": "3:2",
+                    "Features": [
+                        "Multi-touch",
+                        "Scratch-resistant glass"
+                    ]
+                },
+                "Performance": {
+                    "Processor": "Samsung 32-bit RISC ARM",
+                    "CPU": "412 MHz ARM 11",
+                    "GPU": "PowerVR MBX Lite",
+                    "RAM": "128MB",
+                    "Internal_Storage": "4GB, 8GB, 16GB"
+                },
+                "Camera": {
+                    "RearCamera": "2MP",
+                    "RearCameraFeatures": [
+                        "Fixed focus"
+                    ],
+                    "FrontCamera": "None",
+                    "FrontCameraFeatures": []
+                },
+                "Battery": {
+                    "Capacity": "1400mAh",
+                    "Fast Charging": "No",
+                    "Wireless Charging": "No"
+                },
+                "Connectivity": {
+                    "Wi-Fi": "Yes, Wi-Fi 802.11b/g",
+                    "Bluetooth": "Yes, v2.0",
+                    "USB": "Yes, 30-pin connector",
+                    "Headphone Jack": "Yes"
+                },
+                "Sensors": {
+                    "Face Unlock": "No",
+                    "Accelerometer": "Yes",
+                    "Proximity Sensor": "Yes",
+                    "Compass": "No"
+                },
+                "Software": {
+                    "Operating System": "iPhone OS 1.0",
+                    "Features": [
+                        "Safari",
+                        "iTunes",
+                        "YouTube"
+                    ]
+                }
+            },
+            "Price": 499.00,
+            "DiscountPercentage": 0.0,
+            "Rating": 4.5,
+            "Stock": 0,
+            "Tags": [
+                "smartphone",
+                "revolutionary",
+                "iOS"
+            ],
+            "Brand": "Apple",
+            "Sku": "IP1G4GB",
+            "Weight": 0.135,
+            "Dimensions": {
+                "width": 6.1,
+                "height": 11.5,
+                "depth": 1.16
+            },
+            "WarrantyInformation": "1 year warranty",
+            "ShippingInformation": "Discontinued",
+            "AvailabilityStatus": "Out of Stock",
+            "ReturnPolicy": "N/A",
+            "MinimumOrderQuantity": 1
+        },
+        {
+            "Model": "iPhone 3G",
+            "Description": "The second-generation iPhone with 3G connectivity and GPS support.",
+            "Highlights": [
+                "3G network support",
+                "App Store introduced",
+                "Improved design"
+            ],
+            "Specifications": {
+                "General": {
+                    "Release Date": "July 2008",
+                    "Form Factor": "Touchscreen",
+                    "Dimensions": "115.5 x 62.1 x 12.3 mm",
+                    "Weight": "133 grams",
+                    "Colours": "Black, White"
+                },
+                "Display": {
+                    "Type": "LCD",
+                    "Size": "3.5 inches",
+                    "Resolution": "320 x 480 pixels",
+                    "Aspect Ratio": "3:2",
+                    "Features": [
+                        "Multi-touch",
+                        "Scratch-resistant glass"
+                    ]
+                },
+                "Performance": {
+                    "Processor": "Samsung 32-bit RISC ARM",
+                    "CPU": "412 MHz ARM 11",
+                    "GPU": "PowerVR MBX Lite",
+                    "RAM": "128MB",
+                    "Internal_Storage": "8GB, 16GB"
+                },
+                "Camera": {
+                    "RearCamera": "2MP",
+                    "RearCameraFeatures": [
+                        "Fixed focus"
+                    ],
+                    "FrontCamera": "None",
+                    "FrontCameraFeatures": []
+                },
+                "Battery": {
+                    "Capacity": "1150mAh",
+                    "Fast Charging": "No",
+                    "Wireless Charging": "No"
+                },
+                "Connectivity": {
+                    "Wi-Fi": "Yes, Wi-Fi 802.11b/g",
+                    "Bluetooth": "Yes, v2.0",
+                    "USB": "Yes, 30-pin connector",
+                    "Headphone Jack": "Yes"
+                },
+                "Sensors": {
+                    "Face Unlock": "No",
+                    "Accelerometer": "Yes",
+                    "Proximity Sensor": "Yes",
+                    "Compass": "No"
+                },
+                "Software": {
+                    "Operating System": "iPhone OS 2.0",
+                    "Features": [
+                        "App Store",
+                        "Maps",
+                        "Push Email"
+                    ]
+                }
+            },
+            "Price": 599.00,
+            "DiscountPercentage": 0.0,
+            "Rating": 4.6,
+            "Stock": 0,
+            "Tags": [
+                "smartphone",
+                "3G",
+                "iOS"
+            ],
+            "Brand": "Apple",
+            "Sku": "IP3G8GB",
+            "Weight": 0.133,
+            "Dimensions": {
+                "width": 6.21,
+                "height": 11.55,
+                "depth": 1.23
+            },
+            "WarrantyInformation": "1 year warranty",
+            "ShippingInformation": "Discontinued",
+            "AvailabilityStatus": "Out of Stock",
+            "ReturnPolicy": "N/A",
+            "MinimumOrderQuantity": 1
+        },
+        {
+            "Model": "iPhone 3GS",
+            "Description": "The third-generation iPhone with improved performance and a 3MP camera.",
+            "Highlights": [
+                "3MP camera with video recording",
+                "Improved performance",
+                "Voice Control"
+            ],
+            "Specifications": {
+                "General": {
+                    "Release Date": "June 2009",
+                    "Form Factor": "Touchscreen",
+                    "Dimensions": "115.5 x 62.1 x 12.3 mm",
+                    "Weight": "135 grams",
+                    "Colours": "Black, White"
+                },
+                "Display": {
+                    "Type": "LCD",
+                    "Size": "3.5 inches",
+                    "Resolution": "320 x 480 pixels",
+                    "Aspect Ratio": "3:2",
+                    "Features": [
+                        "Multi-touch",
+                        "Oleophobic coating"
+                    ]
+                },
+                "Performance": {
+                    "Processor": "600 MHz ARM Cortex-A8",
+                    "CPU": "600 MHz ARM Cortex-A8",
+                    "GPU": "PowerVR SGX535",
+                    "RAM": "256MB",
+                    "Internal_Storage": "8GB, 16GB, 32GB"
+                },
+                "Camera": {
+                    "RearCamera": "3MP",
+                    "RearCameraFeatures": [
+                        "Autofocus",
+                        "Video recording"
+                    ],
+                    "FrontCamera": "None",
+                    "FrontCameraFeatures": []
+                },
+                "Battery": {
+                    "Capacity": "1219mAh",
+                    "Fast Charging": "No",
+                    "Wireless Charging": "No"
+                },
+                "Connectivity": {
+                    "Wi-Fi": "Yes, Wi-Fi 802.11b/g",
+                    "Bluetooth": "Yes, v2.1",
+                    "USB": "Yes, 30-pin connector",
+                    "Headphone Jack": "Yes"
+                },
+                "Sensors": {
+                    "Face Unlock": "No",
+                    "Accelerometer": "Yes",
+                    "Proximity Sensor": "Yes",
+                    "Compass": "Yes"
+                },
+                "Software": {
+                    "Operating System": "iPhone OS 3.0",
+                    "Features": [
+                        "Voice Control",
+                        "Cut, Copy, Paste",
+                        "Spotlight Search"
+                    ]
+                }
+            },
+            "Price": 699.00,
+            "DiscountPercentage": 0.0,
+            "Rating": 4.7,
+            "Stock": 0,
+            "Tags": [
+                "smartphone",
+                "3GS",
+                "iOS"
+            ],
+            "Brand": "Apple",
+            "Sku": "IP3GS16GB",
+            "Weight": 0.135,
+            "Dimensions": {
+                "width": 6.21,
+                "height": 11.55,
+                "depth": 1.23
+            },
+            "WarrantyInformation": "1 year warranty",
+            "ShippingInformation": "Discontinued",
+            "AvailabilityStatus": "Out of Stock",
+            "ReturnPolicy": "N/A",
+            "MinimumOrderQuantity": 1
+        },
+        {
+            "Model": "iPhone 4",
+            "Description": "The fourth-generation iPhone featuring a Retina Display, glass back, and front-facing camera.",
+            "Highlights": [
+                "Retina Display with high resolution",
+                "5MP rear camera with LED flash",
+                "Front-facing camera for video calls"
+            ],
+            "Specifications": {
+                "General": {
+                    "Release Date": "June 2010",
+                    "Form Factor": "Touchscreen",
+                    "Dimensions": "115.2 x 58.6 x 9.3 mm",
+                    "Weight": "137 grams",
+                    "Colours": "Black, White"
+                },
+                "Display": {
+                    "Type": "Retina IPS LCD",
+                    "Size": "3.5 inches",
+                    "Resolution": "640 x 960 pixels",
+                    "Aspect Ratio": "3:2",
+                    "Features": [
+                        "Retina Display",
+                        "Oleophobic coating"
+                    ]
+                },
+                "Performance": {
+                    "Processor": "Apple A4",
+                    "CPU": "1 GHz Cortex-A8",
+                    "GPU": "PowerVR SGX535",
+                    "RAM": "512MB",
+                    "Internal_Storage": "8GB, 16GB, 32GB"
+                },
+                "Camera": {
+                    "RearCamera": "5MP",
+                    "RearCameraFeatures": [
+                        "LED flash",
+                        "Autofocus",
+                        "720p video recording"
+                    ],
+                    "FrontCamera": "0.3MP",
+                    "FrontCameraFeatures": [
+                        "VGA video recording"
+                    ]
+                },
+                "Battery": {
+                    "Capacity": "1420mAh",
+                    "Fast Charging": "No",
+                    "Wireless Charging": "No"
+                },
+                "Connectivity": {
+                    "Wi-Fi": "Yes, Wi-Fi 802.11b/g/n",
+                    "Bluetooth": "Yes, v2.1",
+                    "USB": "Yes, 30-pin connector",
+                    "Headphone Jack": "Yes"
+                },
+                "Sensors": {
+                    "Face Unlock": "No",
+                    "Accelerometer": "Yes",
+                    "Proximity Sensor": "Yes",
+                    "Compass": "Yes",
+                    "Gyroscope": "Yes"
+                },
+                "Software": {
+                    "Operating System": "iOS 4",
+                    "Features": [
+                        "FaceTime",
+                        "Multitasking",
+                        "iBooks"
+                    ]
+                }
+            },
+            "Price": 599.00,
+            "DiscountPercentage": 0.0,
+            "Rating": 4.8,
+            "Stock": 0,
+            "Tags": [
+                "smartphone",
+                "Retina Display",
+                "iOS"
+            ],
+            "Brand": "Apple",
+            "Sku": "IP4GB16",
+            "Weight": 0.137,
+            "Dimensions": {
+                "width": 5.86,
+                "height": 11.52,
+                "depth": 0.93
+            },
+            "WarrantyInformation": "1 year warranty",
+            "ShippingInformation": "Discontinued",
+            "AvailabilityStatus": "Out of Stock",
+            "ReturnPolicy": "N/A",
+            "MinimumOrderQuantity": 1
+        },
+        {
+            "Model": "iPhone 4S",
+            "Description": "The fifth-generation iPhone with Siri, an 8MP camera, and dual-core A5 chip.",
+            "Highlights": [
+                "Siri voice assistant",
+                "8MP rear camera with 1080p video",
+                "Dual-core A5 chip for better performance"
+            ],
+            "Specifications": {
+                "General": {
+                    "Release Date": "October 2011",
+                    "Form Factor": "Touchscreen",
+                    "Dimensions": "115.2 x 58.6 x 9.3 mm",
+                    "Weight": "140 grams",
+                    "Colours": "Black, White"
+                },
+                "Display": {
+                    "Type": "Retina IPS LCD",
+                    "Size": "3.5 inches",
+                    "Resolution": "640 x 960 pixels",
+                    "Aspect Ratio": "3:2",
+                    "Features": [
+                        "Retina Display",
+                        "Oleophobic coating"
+                    ]
+                },
+                "Performance": {
+                    "Processor": "Apple A5",
+                    "CPU": "Dual-core 1 GHz Cortex-A9",
+                    "GPU": "PowerVR SGX543MP2",
+                    "RAM": "512MB",
+                    "Internal_Storage": "8GB, 16GB, 32GB, 64GB"
+                },
+                "Camera": {
+                    "RearCamera": "8MP",
+                    "RearCameraFeatures": [
+                        "LED flash",
+                        "Autofocus",
+                        "1080p video recording"
+                    ],
+                    "FrontCamera": "0.3MP",
+                    "FrontCameraFeatures": [
+                        "VGA video recording"
+                    ]
+                },
+                "Battery": {
+                    "Capacity": "1432mAh",
+                    "Fast Charging": "No",
+                    "Wireless Charging": "No"
+                },
+                "Connectivity": {
+                    "Wi-Fi": "Yes, Wi-Fi 802.11b/g/n",
+                    "Bluetooth": "Yes, v4.0",
+                    "USB": "Yes, 30-pin connector",
+                    "Headphone Jack": "Yes"
+                },
+                "Sensors": {
+                    "Face Unlock": "No",
+                    "Accelerometer": "Yes",
+                    "Proximity Sensor": "Yes",
+                    "Compass": "Yes",
+                    "Gyroscope": "Yes"
+                },
+                "Software": {
+                    "Operating System": "iOS 5",
+                    "Features": [
+                        "Siri",
+                        "iCloud",
+                        "iMessage"
+                    ]
+                }
+            },
+            "Price": 649.00,
+            "DiscountPercentage": 0.0,
+            "Rating": 4.7,
+            "Stock": 0,
+            "Tags": [
+                "smartphone",
+                "Siri",
+                "iOS"
+            ],
+            "Brand": "Apple",
+            "Sku": "IP4S16GB",
+            "Weight": 0.140,
+            "Dimensions": {
+                "width": 5.86,
+                "height": 11.52,
+                "depth": 0.93
+            },
+            "WarrantyInformation": "1 year warranty",
+            "ShippingInformation": "Discontinued",
+            "AvailabilityStatus": "Out of Stock",
+            "ReturnPolicy": "N/A",
+            "MinimumOrderQuantity": 1
+        },
+        {
+            "Model": "iPhone 5",
+            "Description": "The sixth-generation iPhone with a larger 4-inch display, LTE support, and a thinner design.",
+            "Highlights": [
+                "4-inch Retina Display",
+                "LTE support for faster internet",
+                "Thinner and lighter design"
+            ],
+            "Specifications": {
+                "General": {
+                    "Release Date": "September 2012",
+                    "Form Factor": "Touchscreen",
+                    "Dimensions": "123.8 x 58.6 x 7.6 mm",
+                    "Weight": "112 grams",
+                    "Colours": "Black, White"
+                },
+                "Display": {
+                    "Type": "Retina IPS LCD",
+                    "Size": "4 inches",
+                    "Resolution": "640 x 1136 pixels",
+                    "Aspect Ratio": "16:9",
+                    "Features": [
+                        "Retina Display",
+                        "Oleophobic coating"
+                    ]
+                },
+                "Performance": {
+                    "Processor": "Apple A6",
+                    "CPU": "Dual-core 1.3 GHz Swift",
+                    "GPU": "PowerVR SGX543MP3",
+                    "RAM": "1GB",
+                    "Internal_Storage": "16GB, 32GB, 64GB"
+                },
+                "Camera": {
+                    "RearCamera": "8MP",
+                    "RearCameraFeatures": [
+                        "LED flash",
+                        "Autofocus",
+                        "1080p video recording"
+                    ],
+                    "FrontCamera": "1.2MP",
+                    "FrontCameraFeatures": [
+                        "720p video recording"
+                    ]
+                },
+                "Battery": {
+                    "Capacity": "1440mAh",
+                    "Fast Charging": "No",
+                    "Wireless Charging": "No"
+                },
+                "Connectivity": {
+                    "Wi-Fi": "Yes, Wi-Fi 802.11a/b/g/n",
+                    "Bluetooth": "Yes, v4.0",
+                    "USB": "Yes, Lightning connector",
+                    "Headphone Jack": "Yes"
+                },
+                "Sensors": {
+                    "Face Unlock": "No",
+                    "Accelerometer": "Yes",
+                    "Proximity Sensor": "Yes",
+                    "Compass": "Yes",
+                    "Gyroscope": "Yes"
+                },
+                "Software": {
+                    "Operating System": "iOS 6",
+                    "Features": [
+                        "Apple Maps",
+                        "Passbook",
+                        "Panorama mode"
+                    ]
+                }
+            },
+            "Price": 649.00,
+            "DiscountPercentage": 0.0,
+            "Rating": 4.6,
+            "Stock": 0,
+            "Tags": [
+                "smartphone",
+                "LTE",
+                "iOS"
+            ],
+            "Brand": "Apple",
+            "Sku": "IP5GB16",
+            "Weight": 0.112,
+            "Dimensions": {
+                "width": 5.86,
+                "height": 12.38,
+                "depth": 0.76
+            },
+            "WarrantyInformation": "1 year warranty",
+            "ShippingInformation": "Discontinued",
+            "AvailabilityStatus": "Out of Stock",
+            "ReturnPolicy": "N/A",
+            "MinimumOrderQuantity": 1
+        },
+        {
+            "Model": "iPhone 5c",
+            "Description": "A colorful and affordable iPhone with a polycarbonate body and the same internals as the iPhone 5.",
+            "Highlights": [
+                "Colorful polycarbonate design",
+                "4-inch Retina Display",
+                "LTE support"
+            ],
+            "Specifications": {
+                "General": {
+                    "Release Date": "September 2013",
+                    "Form Factor": "Touchscreen",
+                    "Dimensions": "124.4 x 59.2 x 8.97 mm",
+                    "Weight": "132 grams",
+                    "Colours": "Blue, Green, Pink, Yellow, White"
+                },
+                "Display": {
+                    "Type": "Retina IPS LCD",
+                    "Size": "4 inches",
+                    "Resolution": "640 x 1136 pixels",
+                    "Aspect Ratio": "16:9",
+                    "Features": [
+                        "Retina Display",
+                        "Oleophobic coating"
+                    ]
+                },
+                "Performance": {
+                    "Processor": "Apple A6",
+                    "CPU": "Dual-core 1.3 GHz Swift",
+                    "GPU": "PowerVR SGX543MP3",
+                    "RAM": "1GB",
+                    "Internal_Storage": "8GB, 16GB, 32GB"
+                },
+                "Camera": {
+                    "RearCamera": "8MP",
+                    "RearCameraFeatures": [
+                        "LED flash",
+                        "Autofocus",
+                        "1080p video recording"
+                    ],
+                    "FrontCamera": "1.2MP",
+                    "FrontCameraFeatures": [
+                        "720p video recording"
+                    ]
+                },
+                "Battery": {
+                    "Capacity": "1510mAh",
+                    "Fast Charging": "No",
+                    "Wireless Charging": "No"
+                },
+                "Connectivity": {
+                    "Wi-Fi": "Yes, Wi-Fi 802.11a/b/g/n",
+                    "Bluetooth": "Yes, v4.0",
+                    "USB": "Yes, Lightning connector",
+                    "Headphone Jack": "Yes"
+                },
+                "Sensors": {
+                    "Face Unlock": "No",
+                    "Accelerometer": "Yes",
+                    "Proximity Sensor": "Yes",
+                    "Compass": "Yes",
+                    "Gyroscope": "Yes"
+                },
+                "Software": {
+                    "Operating System": "iOS 7",
+                    "Features": [
+                        "Control Center",
+                        "AirDrop",
+                        "Touch ID (none)"
+                    ]
+                }
+            },
+            "Price": 549.00,
+            "DiscountPercentage": 0.0,
+            "Rating": 4.4,
+            "Stock": 0,
+            "Tags": [
+                "smartphone",
+                "colorful",
+                "iOS"
+            ],
+            "Brand": "Apple",
+            "Sku": "IP5C16GB",
+            "Weight": 0.132,
+            "Dimensions": {
+                "width": 5.92,
+                "height": 12.44,
+                "depth": 0.897
+            },
+            "WarrantyInformation": "1 year warranty",
+            "ShippingInformation": "Discontinued",
+            "AvailabilityStatus": "Out of Stock",
+            "ReturnPolicy": "N/A",
+            "MinimumOrderQuantity": 1
+        },
+        {
+            "Model": "iPhone 5s",
+            "Description": "The seventh-generation iPhone with Touch ID, a 64-bit A7 chip, and an improved camera.",
+            "Highlights": [
+                "Touch ID fingerprint sensor",
+                "64-bit A7 chip",
+                "Improved 8MP camera with True Tone flash"
+            ],
+            "Specifications": {
+                "General": {
+                    "Release Date": "September 2013",
+                    "Form Factor": "Touchscreen",
+                    "Dimensions": "123.8 x 58.6 x 7.6 mm",
+                    "Weight": "112 grams",
+                    "Colours": "Space Gray, Silver, Gold"
+                },
+                "Display": {
+                    "Type": "Retina IPS LCD",
+                    "Size": "4 inches",
+                    "Resolution": "640 x 1136 pixels",
+                    "Aspect Ratio": "16:9",
+                    "Features": [
+                        "Retina Display",
+                        "Oleophobic coating"
+                    ]
+                },
+                "Performance": {
+                    "Processor": "Apple A7",
+                    "CPU": "Dual-core 1.3 GHz Cyclone",
+                    "GPU": "PowerVR G6430",
+                    "RAM": "1GB",
+                    "Internal_Storage": "16GB, 32GB, 64GB"
+                },
+                "Camera": {
+                    "RearCamera": "8MP",
+                    "RearCameraFeatures": [
+                        "True Tone flash",
+                        "Autofocus",
+                        "1080p video recording"
+                    ],
+                    "FrontCamera": "1.2MP",
+                    "FrontCameraFeatures": [
+                        "720p video recording"
+                    ]
+                },
+                "Battery": {
+                    "Capacity": "1560mAh",
+                    "Fast Charging": "No",
+                    "Wireless Charging": "No"
+                },
+                "Connectivity": {
+                    "Wi-Fi": "Yes, Wi-Fi 802.11a/b/g/n",
+                    "Bluetooth": "Yes, v4.0",
+                    "USB": "Yes, Lightning connector",
+                    "Headphone Jack": "Yes"
+                },
+                "Sensors": {
+                    "Face Unlock": "No",
+                    "Accelerometer": "Yes",
+                    "Proximity Sensor": "Yes",
+                    "Compass": "Yes",
+                    "Gyroscope": "Yes",
+                    "Touch ID": "Yes"
+                },
+                "Software": {
+                    "Operating System": "iOS 7",
+                    "Features": [
+                        "Touch ID",
+                        "Control Center",
+                        "AirDrop"
+                    ]
+                }
+            },
+            "Price": 649.00,
+            "DiscountPercentage": 0.0,
+            "Rating": 4.7,
+            "Stock": 0,
+            "Tags": [
+                "smartphone",
+                "Touch ID",
+                "iOS"
+            ],
+            "Brand": "Apple",
+            "Sku": "IP5S16GB",
+            "Weight": 0.112,
+            "Dimensions": {
+                "width": 5.86,
+                "height": 12.38,
+                "depth": 0.76
+            },
+            "WarrantyInformation": "1 year warranty",
+            "ShippingInformation": "Discontinued",
+            "AvailabilityStatus": "Out of Stock",
+            "ReturnPolicy": "N/A",
+            "MinimumOrderQuantity": 1
+        },
+        {
+            "Model": "iPhone 6",
+            "Description": "The eighth-generation iPhone with a larger 4.7-inch display, improved camera, and Apple Pay support.",
+            "Highlights": [
+                "4.7-inch Retina HD Display",
+                "Apple Pay support",
+                "Improved 8MP camera with Focus Pixels"
+            ],
+            "Specifications": {
+                "General": {
+                    "Release Date": "September 2014",
+                    "Form Factor": "Touchscreen",
+                    "Dimensions": "138.1 x 67 x 6.9 mm",
+                    "Weight": "129 grams",
+                    "Colours": "Space Gray, Silver, Gold"
+                },
+                "Display": {
+                    "Type": "Retina HD IPS LCD",
+                    "Size": "4.7 inches",
+                    "Resolution": "750 x 1334 pixels",
+                    "Aspect Ratio": "16:9",
+                    "Features": [
+                        "Retina Display",
+                        "Oleophobic coating"
+                    ]
+                },
+                "Performance": {
+                    "Processor": "Apple A8",
+                    "CPU": "Dual-core 1.4 GHz Typhoon",
+                    "GPU": "PowerVR GX6450",
+                    "RAM": "1GB",
+                    "Internal_Storage": "16GB, 64GB, 128GB"
+                },
+                "Camera": {
+                    "RearCamera": "8MP",
+                    "RearCameraFeatures": [
+                        "Focus Pixels",
+                        "True Tone flash",
+                        "1080p video recording"
+                    ],
+                    "FrontCamera": "1.2MP",
+                    "FrontCameraFeatures": [
+                        "720p video recording"
+                    ]
+                },
+                "Battery": {
+                    "Capacity": "1810mAh",
+                    "Fast Charging": "No",
+                    "Wireless Charging": "No"
+                },
+                "Connectivity": {
+                    "Wi-Fi": "Yes, Wi-Fi 802.11a/b/g/n/ac",
+                    "Bluetooth": "Yes, v4.2",
+                    "USB": "Yes, Lightning connector",
+                    "Headphone Jack": "Yes"
+                },
+                "Sensors": {
+                    "Face Unlock": "No",
+                    "Accelerometer": "Yes",
+                    "Proximity Sensor": "Yes",
+                    "Compass": "Yes",
+                    "Gyroscope": "Yes",
+                    "Touch ID": "Yes"
+                },
+                "Software": {
+                    "Operating System": "iOS 8",
+                    "Features": [
+                        "Apple Pay",
+                        "Health app",
+                        "Family Sharing"
+                    ]
+                }
+            },
+            "Price": 649.00,
+            "DiscountPercentage": 0.0,
+            "Rating": 4.6,
+            "Stock": 0,
+            "Tags": [
+                "smartphone",
+                "Apple Pay",
+                "iOS"
+            ],
+            "Brand": "Apple",
+            "Sku": "IP6GB16",
+            "Weight": 0.129,
+            "Dimensions": {
+                "width": 6.7,
+                "height": 13.81,
+                "depth": 0.69
+            },
+            "WarrantyInformation": "1 year warranty",
+            "ShippingInformation": "Discontinued",
+            "AvailabilityStatus": "Out of Stock",
+            "ReturnPolicy": "N/A",
+            "MinimumOrderQuantity": 1
+        },
+        {
+            "Model": "iPhone 6 Plus",
+            "Description": "The larger variant of the iPhone 6 with a 5.5-inch display, improved camera, and optical image stabilization.",
+            "Highlights": [
+                "5.5-inch Retina HD Display",
+                "Optical image stabilization for the camera",
+                "Apple Pay support"
+            ],
+            "Specifications": {
+                "General": {
+                    "Release Date": "September 2014",
+                    "Form Factor": "Touchscreen",
+                    "Dimensions": "158.1 x 77.8 x 7.1 mm",
+                    "Weight": "172 grams",
+                    "Colours": "Space Gray, Silver, Gold"
+                },
+                "Display": {
+                    "Type": "Retina HD IPS LCD",
+                    "Size": "5.5 inches",
+                    "Resolution": "1080 x 1920 pixels",
+                    "Aspect Ratio": "16:9",
+                    "Features": [
+                        "Retina Display",
+                        "Oleophobic coating"
+                    ]
+                },
+                "Performance": {
+                    "Processor": "Apple A8",
+                    "CPU": "Dual-core 1.4 GHz Typhoon",
+                    "GPU": "PowerVR GX6450",
+                    "RAM": "1GB",
+                    "Internal_Storage": "16GB, 64GB, 128GB"
+                },
+                "Camera": {
+                    "RearCamera": "8MP",
+                    "RearCameraFeatures": [
+                        "Optical image stabilization",
+                        "True Tone flash",
+                        "1080p video recording"
+                    ],
+                    "FrontCamera": "1.2MP",
+                    "FrontCameraFeatures": [
+                        "720p video recording"
+                    ]
+                },
+                "Battery": {
+                    "Capacity": "2915mAh",
+                    "Fast Charging": "No",
+                    "Wireless Charging": "No"
+                },
+                "Connectivity": {
+                    "Wi-Fi": "Yes, Wi-Fi 802.11a/b/g/n/ac",
+                    "Bluetooth": "Yes, v4.2",
+                    "USB": "Yes, Lightning connector",
+                    "Headphone Jack": "Yes"
+                },
+                "Sensors": {
+                    "Face Unlock": "No",
+                    "Accelerometer": "Yes",
+                    "Proximity Sensor": "Yes",
+                    "Compass": "Yes",
+                    "Gyroscope": "Yes",
+                    "Touch ID": "Yes"
+                },
+                "Software": {
+                    "Operating System": "iOS 8",
+                    "Features": [
+                        "Apple Pay",
+                        "Health app",
+                        "Family Sharing"
+                    ]
+                }
+            },
+            "Price": 749.00,
+            "DiscountPercentage": 0.0,
+            "Rating": 4.6,
+            "Stock": 0,
+            "Tags": [
+                "smartphone",
+                "Apple Pay",
+                "iOS"
+            ],
+            "Brand": "Apple",
+            "Sku": "IP6P16GB",
+            "Weight": 0.172,
+            "Dimensions": {
+                "width": 7.78,
+                "height": 15.81,
+                "depth": 0.71
+            },
+            "WarrantyInformation": "1 year warranty",
+            "ShippingInformation": "Discontinued",
+            "AvailabilityStatus": "Out of Stock",
+            "ReturnPolicy": "N/A",
+            "MinimumOrderQuantity": 1
+        },
+        {
+            "Model": "iPhone 6s",
+            "Description": "The ninth-generation iPhone with 3D Touch, a 12MP camera, and a faster A9 chip.",
+            "Highlights": [
+                "3D Touch for pressure-sensitive interactions",
+                "12MP rear camera with 4K video recording",
+                "Faster A9 chip with M9 motion coprocessor"
+            ],
+            "Specifications": {
+                "General": {
+                    "Release Date": "September 2015",
+                    "Form Factor": "Touchscreen",
+                    "Dimensions": "138.3 x 67.1 x 7.1 mm",
+                    "Weight": "143 grams",
+                    "Colours": "Space Gray, Silver, Gold, Rose Gold"
+                },
+                "Display": {
+                    "Type": "Retina HD IPS LCD",
+                    "Size": "4.7 inches",
+                    "Resolution": "750 x 1334 pixels",
+                    "Aspect Ratio": "16:9",
+                    "Features": [
+                        "3D Touch",
+                        "Oleophobic coating"
+                    ]
+                },
+                "Performance": {
+                    "Processor": "Apple A9",
+                    "CPU": "Dual-core 1.84 GHz Twister",
+                    "GPU": "PowerVR GT7600",
+                    "RAM": "2GB",
+                    "Internal_Storage": "16GB, 32GB, 64GB, 128GB"
+                },
+                "Camera": {
+                    "RearCamera": "12MP",
+                    "RearCameraFeatures": [
+                        "4K video recording",
+                        "True Tone flash",
+                        "Live Photos"
+                    ],
+                    "FrontCamera": "5MP",
+                    "FrontCameraFeatures": [
+                        "720p video recording",
+                        "Retina Flash"
+                    ]
+                },
+                "Battery": {
+                    "Capacity": "1715mAh",
+                    "Fast Charging": "No",
+                    "Wireless Charging": "No"
+                },
+                "Connectivity": {
+                    "Wi-Fi": "Yes, Wi-Fi 802.11a/b/g/n/ac",
+                    "Bluetooth": "Yes, v4.2",
+                    "USB": "Yes, Lightning connector",
+                    "Headphone Jack": "Yes"
+                },
+                "Sensors": {
+                    "Face Unlock": "No",
+                    "Accelerometer": "Yes",
+                    "Proximity Sensor": "Yes",
+                    "Compass": "Yes",
+                    "Gyroscope": "Yes",
+                    "Touch ID": "Yes",
+                    "3D Touch": "Yes"
+                },
+                "Software": {
+                    "Operating System": "iOS 9",
+                    "Features": [
+                        "3D Touch",
+                        "Live Photos",
+                        "Night Shift"
+                    ]
+                }
+            },
+            "Price": 649.00,
+            "DiscountPercentage": 0.0,
+            "Rating": 4.7,
+            "Stock": 0,
+            "Tags": [
+                "smartphone",
+                "3D Touch",
+                "iOS"
+            ],
+            "Brand": "Apple",
+            "Sku": "IP6S16GB",
+            "Weight": 0.143,
+            "Dimensions": {
+                "width": 6.71,
+                "height": 13.83,
+                "depth": 0.71
+            },
+            "WarrantyInformation": "1 year warranty",
+            "ShippingInformation": "Discontinued",
+            "AvailabilityStatus": "Out of Stock",
+            "ReturnPolicy": "N/A",
+            "MinimumOrderQuantity": 1
+        },
+        {
+            "Model": "iPhone 6s Plus",
+            "Description": "The larger variant of the iPhone 6s with a 5.5-inch display, 12MP camera, and optical image stabilization.",
+            "Highlights": [
+                "5.5-inch Retina HD Display",
+                "12MP rear camera with optical image stabilization",
+                "3D Touch for pressure-sensitive interactions"
+            ],
+            "Specifications": {
+                "General": {
+                    "Release Date": "September 2015",
+                    "Form Factor": "Touchscreen",
+                    "Dimensions": "158.2 x 77.9 x 7.3 mm",
+                    "Weight": "192 grams",
+                    "Colours": "Space Gray, Silver, Gold, Rose Gold"
+                },
+                "Display": {
+                    "Type": "Retina HD IPS LCD",
+                    "Size": "5.5 inches",
+                    "Resolution": "1080 x 1920 pixels",
+                    "Aspect Ratio": "16:9",
+                    "Features": [
+                        "3D Touch",
+                        "Oleophobic coating"
+                    ]
+                },
+                "Performance": {
+                    "Processor": "Apple A9",
+                    "CPU": "Dual-core 1.84 GHz Twister",
+                    "GPU": "PowerVR GT7600",
+                    "RAM": "2GB",
+                    "Internal_Storage": "16GB, 32GB, 64GB, 128GB"
+                },
+                "Camera": {
+                    "RearCamera": "12MP",
+                    "RearCameraFeatures": [
+                        "Optical image stabilization",
+                        "4K video recording",
+                        "Live Photos"
+                    ],
+                    "FrontCamera": "5MP",
+                    "FrontCameraFeatures": [
+                        "720p video recording",
+                        "Retina Flash"
+                    ]
+                },
+                "Battery": {
+                    "Capacity": "2750mAh",
+                    "Fast Charging": "No",
+                    "Wireless Charging": "No"
+                },
+                "Connectivity": {
+                    "Wi-Fi": "Yes, Wi-Fi 802.11a/b/g/n/ac",
+                    "Bluetooth": "Yes, v4.2",
+                    "USB": "Yes, Lightning connector",
+                    "Headphone Jack": "Yes"
+                },
+                "Sensors": {
+                    "Face Unlock": "No",
+                    "Accelerometer": "Yes",
+                    "Proximity Sensor": "Yes",
+                    "Compass": "Yes",
+                    "Gyroscope": "Yes",
+                    "Touch ID": "Yes",
+                    "3D Touch": "Yes"
+                },
+                "Software": {
+                    "Operating System": "iOS 9",
+                    "Features": [
+                        "3D Touch",
+                        "Live Photos",
+                        "Night Shift"
+                    ]
+                }
+            },
+            "Price": 749.00,
+            "DiscountPercentage": 0.0,
+            "Rating": 4.7,
+            "Stock": 0,
+            "Tags": [
+                "smartphone",
+                "3D Touch",
+                "iOS"
+            ],
+            "Brand": "Apple",
+            "Sku": "IP6SP16GB",
+            "Weight": 0.192,
+            "Dimensions": {
+                "width": 7.79,
+                "height": 15.82,
+                "depth": 0.73
+            },
+            "WarrantyInformation": "1 year warranty",
+            "ShippingInformation": "Discontinued",
+            "AvailabilityStatus": "Out of Stock",
+            "ReturnPolicy": "N/A",
+            "MinimumOrderQuantity": 1
+        },
+        {
+            "Model": "iPhone SE (1st generation)",
+            "Description": "A compact and affordable iPhone with the power of the iPhone 6s in a smaller 4-inch design.",
+            "Highlights": [
+                "4-inch Retina Display",
+                "A9 chip with M9 motion coprocessor",
+                "12MP rear camera with 4K video recording"
+            ],
+            "Specifications": {
+                "General": {
+                    "Release Date": "March 2016",
+                    "Form Factor": "Touchscreen",
+                    "Dimensions": "123.8 x 58.6 x 7.6 mm",
+                    "Weight": "113 grams",
+                    "Colours": "Space Gray, Silver, Gold, Rose Gold"
+                },
+                "Display": {
+                    "Type": "Retina IPS LCD",
+                    "Size": "4 inches",
+                    "Resolution": "640 x 1136 pixels",
+                    "Aspect Ratio": "16:9",
+                    "Features": [
+                        "Oleophobic coating"
+                    ]
+                },
+                "Performance": {
+                    "Processor": "Apple A9",
+                    "CPU": "Dual-core 1.84 GHz Twister",
+                    "GPU": "PowerVR GT7600",
+                    "RAM": "2GB",
+                    "Internal_Storage": "16GB, 32GB, 64GB, 128GB"
+                },
+                "Camera": {
+                    "RearCamera": "12MP",
+                    "RearCameraFeatures": [
+                        "4K video recording",
+                        "True Tone flash",
+                        "Live Photos"
+                    ],
+                    "FrontCamera": "1.2MP",
+                    "FrontCameraFeatures": [
+                        "720p video recording"
+                    ]
+                },
+                "Battery": {
+                    "Capacity": "1624mAh",
+                    "Fast Charging": "No",
+                    "Wireless Charging": "No"
+                },
+                "Connectivity": {
+                    "Wi-Fi": "Yes, Wi-Fi 802.11a/b/g/n/ac",
+                    "Bluetooth": "Yes, v4.2",
+                    "USB": "Yes, Lightning connector",
+                    "Headphone Jack": "Yes"
+                },
+                "Sensors": {
+                    "Face Unlock": "No",
+                    "Accelerometer": "Yes",
+                    "Proximity Sensor": "Yes",
+                    "Compass": "Yes",
+                    "Gyroscope": "Yes",
+                    "Touch ID": "Yes"
+                },
+                "Software": {
+                    "Operating System": "iOS 9",
+                    "Features": [
+                        "Live Photos",
+                        "Apple Pay",
+                        "Siri"
+                    ]
+                }
+            },
+            "Price": 399.00,
+            "DiscountPercentage": 0.0,
+            "Rating": 4.6,
+            "Stock": 0,
+            "Tags": [
+                "smartphone",
+                "compact",
+                "iOS"
+            ],
+            "Brand": "Apple",
+            "Sku": "IPSE16GB",
+            "Weight": 0.113,
+            "Dimensions": {
+                "width": 5.86,
+                "height": 12.38,
+                "depth": 0.76
+            },
+            "WarrantyInformation": "1 year warranty",
+            "ShippingInformation": "Discontinued",
+            "AvailabilityStatus": "Out of Stock",
+            "ReturnPolicy": "N/A",
+            "MinimumOrderQuantity": 1
+        },
+        {
+            "Model": "iPhone 7",
+            "Description": "The tenth-generation iPhone with water resistance, a faster A10 Fusion chip, and improved cameras.",
+            "Highlights": [
+                "Water and dust resistance (IP67)",
+                "A10 Fusion chip for better performance",
+                "12MP rear camera with optical image stabilization"
+            ],
+            "Specifications": {
+                "General": {
+                    "Release Date": "September 2016",
+                    "Form Factor": "Touchscreen",
+                    "Dimensions": "138.3 x 67.1 x 7.1 mm",
+                    "Weight": "138 grams",
+                    "Colours": "Jet Black, Black, Silver, Gold, Rose Gold, Red"
+                },
+                "Display": {
+                    "Type": "Retina HD IPS LCD",
+                    "Size": "4.7 inches",
+                    "Resolution": "750 x 1334 pixels",
+                    "Aspect Ratio": "16:9",
+                    "Features": [
+                        "Wide color display",
+                        "3D Touch"
+                    ]
+                },
+                "Performance": {
+                    "Processor": "Apple A10 Fusion",
+                    "CPU": "Quad-core (2x high-performance, 2x high-efficiency)",
+                    "GPU": "PowerVR GT7600",
+                    "RAM": "2GB",
+                    "Internal_Storage": "32GB, 128GB, 256GB"
+                },
+                "Camera": {
+                    "RearCamera": "12MP",
+                    "RearCameraFeatures": [
+                        "Optical image stabilization",
+                        "4K video recording",
+                        "Quad-LED True Tone flash"
+                    ],
+                    "FrontCamera": "7MP",
+                    "FrontCameraFeatures": [
+                        "1080p video recording",
+                        "Retina Flash"
+                    ]
+                },
+                "Battery": {
+                    "Capacity": "1960mAh",
+                    "Fast Charging": "No",
+                    "Wireless Charging": "No"
+                },
+                "Connectivity": {
+                    "Wi-Fi": "Yes, Wi-Fi 802.11a/b/g/n/ac",
+                    "Bluetooth": "Yes, v4.2",
+                    "USB": "Yes, Lightning connector",
+                    "Headphone Jack": "No"
+                },
+                "Sensors": {
+                    "Face Unlock": "No",
+                    "Accelerometer": "Yes",
+                    "Proximity Sensor": "Yes",
+                    "Compass": "Yes",
+                    "Gyroscope": "Yes",
+                    "Touch ID": "Yes",
+                    "Barometer": "Yes"
+                },
+                "Software": {
+                    "Operating System": "iOS 10",
+                    "Features": [
+                        "Raise to Wake",
+                        "Home app",
+                        "Siri improvements"
+                    ]
+                }
+            },
+            "Price": 649.00,
+            "DiscountPercentage": 0.0,
+            "Rating": 4.7,
+            "Stock": 0,
+            "Tags": [
+                "smartphone",
+                "water-resistant",
+                "iOS"
+            ],
+            "Brand": "Apple",
+            "Sku": "IP7GB32",
+            "Weight": 0.138,
+            "Dimensions": {
+                "width": 6.71,
+                "height": 13.83,
+                "depth": 0.71
+            },
+            "WarrantyInformation": "1 year warranty",
+            "ShippingInformation": "Discontinued",
+            "AvailabilityStatus": "Out of Stock",
+            "ReturnPolicy": "N/A",
+            "MinimumOrderQuantity": 1
+        },
+        {
+            "Model": "iPhone 7 Plus",
+            "Description": "The larger variant of the iPhone 7 with a dual-camera system for better photography.",
+            "Highlights": [
+                "Dual 12MP rear cameras with 2x optical zoom",
+                "Water and dust resistance (IP67)",
+                "A10 Fusion chip for better performance"
+            ],
+            "Specifications": {
+                "General": {
+                    "Release Date": "September 2016",
+                    "Form Factor": "Touchscreen",
+                    "Dimensions": "158.2 x 77.9 x 7.3 mm",
+                    "Weight": "188 grams",
+                    "Colours": "Jet Black, Black, Silver, Gold, Rose Gold, Red"
+                },
+                "Display": {
+                    "Type": "Retina HD IPS LCD",
+                    "Size": "5.5 inches",
+                    "Resolution": "1080 x 1920 pixels",
+                    "Aspect Ratio": "16:9",
+                    "Features": [
+                        "Wide color display",
+                        "3D Touch"
+                    ]
+                },
+                "Performance": {
+                    "Processor": "Apple A10 Fusion",
+                    "CPU": "Quad-core (2x high-performance, 2x high-efficiency)",
+                    "GPU": "PowerVR GT7600",
+                    "RAM": "3GB",
+                    "Internal_Storage": "32GB, 128GB, 256GB"
+                },
+                "Camera": {
+                    "RearCamera": "12MP (Wide) + 12MP (Telephoto)",
+                    "RearCameraFeatures": [
+                        "2x optical zoom",
+                        "Portrait mode",
+                        "4K video recording"
+                    ],
+                    "FrontCamera": "7MP",
+                    "FrontCameraFeatures": [
+                        "1080p video recording",
+                        "Retina Flash"
+                    ]
+                },
+                "Battery": {
+                    "Capacity": "2900mAh",
+                    "Fast Charging": "No",
+                    "Wireless Charging": "No"
+                },
+                "Connectivity": {
+                    "Wi-Fi": "Yes, Wi-Fi 802.11a/b/g/n/ac",
+                    "Bluetooth": "Yes, v4.2",
+                    "USB": "Yes, Lightning connector",
+                    "Headphone Jack": "No"
+                },
+                "Sensors": {
+                    "Face Unlock": "No",
+                    "Accelerometer": "Yes",
+                    "Proximity Sensor": "Yes",
+                    "Compass": "Yes",
+                    "Gyroscope": "Yes",
+                    "Touch ID": "Yes",
+                    "Barometer": "Yes"
+                },
+                "Software": {
+                    "Operating System": "iOS 10",
+                    "Features": [
+                        "Portrait mode",
+                        "Raise to Wake",
+                        "Home app"
+                    ]
+                }
+            },
+            "Price": 769.00,
+            "DiscountPercentage": 0.0,
+            "Rating": 4.8,
+            "Stock": 0,
+            "Tags": [
+                "smartphone",
+                "dual-camera",
+                "iOS"
+            ],
+            "Brand": "Apple",
+            "Sku": "IP7P32GB",
+            "Weight": 0.188,
+            "Dimensions": {
+                "width": 7.79,
+                "height": 15.82,
+                "depth": 0.73
+            },
+            "WarrantyInformation": "1 year warranty",
+            "ShippingInformation": "Discontinued",
+            "AvailabilityStatus": "Out of Stock",
+            "ReturnPolicy": "N/A",
+            "MinimumOrderQuantity": 1
+        },
+        {
+            "Model": "iPhone 8",
+            "Description": "The eleventh-generation iPhone with a glass back, wireless charging, and the A11 Bionic chip.",
+            "Highlights": [
+                "Glass back with wireless charging support",
+                "A11 Bionic chip with Neural Engine",
+                "12MP rear camera with improved image processing"
+            ],
+            "Specifications": {
+                "General": {
+                    "Release Date": "September 2017",
+                    "Form Factor": "Touchscreen",
+                    "Dimensions": "138.4 x 67.3 x 7.3 mm",
+                    "Weight": "148 grams",
+                    "Colours": "Space Gray, Silver, Gold, Red"
+                },
+                "Display": {
+                    "Type": "Retina HD IPS LCD",
+                    "Size": "4.7 inches",
+                    "Resolution": "750 x 1334 pixels",
+                    "Aspect Ratio": "16:9",
+                    "Features": [
+                        "True Tone",
+                        "Wide color display",
+                        "3D Touch"
+                    ]
+                },
+                "Performance": {
+                    "Processor": "Apple A11 Bionic",
+                    "CPU": "Hexa-core (2x high-performance, 4x high-efficiency)",
+                    "GPU": "Apple-designed GPU",
+                    "RAM": "2GB",
+                    "Internal_Storage": "64GB, 128GB, 256GB"
+                },
+                "Camera": {
+                    "RearCamera": "12MP",
+                    "RearCameraFeatures": [
+                        "Optical image stabilization",
+                        "4K video recording",
+                        "Portrait Lighting"
+                    ],
+                    "FrontCamera": "7MP",
+                    "FrontCameraFeatures": [
+                        "1080p video recording",
+                        "Retina Flash"
+                    ]
+                },
+                "Battery": {
+                    "Capacity": "1821mAh",
+                    "Fast Charging": "Yes, 18W (adapter sold separately)",
+                    "Wireless Charging": "Yes, Qi-compatible"
+                },
+                "Connectivity": {
+                    "Wi-Fi": "Yes, Wi-Fi 802.11a/b/g/n/ac",
+                    "Bluetooth": "Yes, v5.0",
+                    "USB": "Yes, Lightning connector",
+                    "Headphone Jack": "No"
+                },
+                "Sensors": {
+                    "Face Unlock": "No",
+                    "Accelerometer": "Yes",
+                    "Proximity Sensor": "Yes",
+                    "Compass": "Yes",
+                    "Gyroscope": "Yes",
+                    "Touch ID": "Yes",
+                    "Barometer": "Yes"
+                },
+                "Software": {
+                    "Operating System": "iOS 11",
+                    "Features": [
+                        "Augmented Reality (AR)",
+                        "Wireless charging",
+                        "Portrait Lighting"
+                    ]
+                }
+            },
+            "Price": 699.00,
+            "DiscountPercentage": 0.0,
+            "Rating": 4.7,
+            "Stock": 0,
+            "Tags": [
+                "smartphone",
+                "wireless charging",
+                "iOS"
+            ],
+            "Brand": "Apple",
+            "Sku": "IP8GB64",
+            "Weight": 0.148,
+            "Dimensions": {
+                "width": 6.73,
+                "height": 13.84,
+                "depth": 0.73
+            },
+            "WarrantyInformation": "1 year warranty",
+            "ShippingInformation": "Discontinued",
+            "AvailabilityStatus": "Out of Stock",
+            "ReturnPolicy": "N/A",
+            "MinimumOrderQuantity": 1
+        },
+        {
+            "Model": "iPhone 8 Plus",
+            "Description": "The larger variant of the iPhone 8 with a dual-camera system and improved performance.",
+            "Highlights": [
+                "Dual 12MP rear cameras with Portrait mode",
+                "Glass back with wireless charging support",
+                "A11 Bionic chip with Neural Engine"
+            ],
+            "Specifications": {
+                "General": {
+                    "Release Date": "September 2017",
+                    "Form Factor": "Touchscreen",
+                    "Dimensions": "158.4 x 78.1 x 7.5 mm",
+                    "Weight": "202 grams",
+                    "Colours": "Space Gray, Silver, Gold, Red"
+                },
+                "Display": {
+                    "Type": "Retina HD IPS LCD",
+                    "Size": "5.5 inches",
+                    "Resolution": "1080 x 1920 pixels",
+                    "Aspect Ratio": "16:9",
+                    "Features": [
+                        "True Tone",
+                        "Wide color display",
+                        "3D Touch"
+                    ]
+                },
+                "Performance": {
+                    "Processor": "Apple A11 Bionic",
+                    "CPU": "Hexa-core (2x high-performance, 4x high-efficiency)",
+                    "GPU": "Apple-designed GPU",
+                    "RAM": "3GB",
+                    "Internal_Storage": "64GB, 128GB, 256GB"
+                },
+                "Camera": {
+                    "RearCamera": "12MP (Wide) + 12MP (Telephoto)",
+                    "RearCameraFeatures": [
+                        "2x optical zoom",
+                        "Portrait mode",
+                        "4K video recording"
+                    ],
+                    "FrontCamera": "7MP",
+                    "FrontCameraFeatures": [
+                        "1080p video recording",
+                        "Retina Flash"
+                    ]
+                },
+                "Battery": {
+                    "Capacity": "2691mAh",
+                    "Fast Charging": "Yes, 18W (adapter sold separately)",
+                    "Wireless Charging": "Yes, Qi-compatible"
+                },
+                "Connectivity": {
+                    "Wi-Fi": "Yes, Wi-Fi 802.11a/b/g/n/ac",
+                    "Bluetooth": "Yes, v5.0",
+                    "USB": "Yes, Lightning connector",
+                    "Headphone Jack": "No"
+                },
+                "Sensors": {
+                    "Face Unlock": "No",
+                    "Accelerometer": "Yes",
+                    "Proximity Sensor": "Yes",
+                    "Compass": "Yes",
+                    "Gyroscope": "Yes",
+                    "Touch ID": "Yes",
+                    "Barometer": "Yes"
+                },
+                "Software": {
+                    "Operating System": "iOS 11",
+                    "Features": [
+                        "Augmented Reality (AR)",
+                        "Wireless charging",
+                        "Portrait Lighting"
+                    ]
+                }
+            },
+            "Price": 799.00,
+            "DiscountPercentage": 0.0,
+            "Rating": 4.8,
+            "Stock": 0,
+            "Tags": [
+                "smartphone",
+                "dual-camera",
+                "iOS"
+            ],
+            "Brand": "Apple",
+            "Sku": "IP8P64GB",
+            "Weight": 0.202,
+            "Dimensions": {
+                "width": 7.81,
+                "height": 15.84,
+                "depth": 0.75
+            },
+            "WarrantyInformation": "1 year warranty",
+            "ShippingInformation": "Discontinued",
+            "AvailabilityStatus": "Out of Stock",
+            "ReturnPolicy": "N/A",
+            "MinimumOrderQuantity": 1
+        },
+        {
+            "Model": "iPhone X",
+            "Description": "The tenth-anniversary iPhone with an edge-to-edge Super Retina Display, Face ID, and the A11 Bionic chip.",
+            "Highlights": [
+                "5.8-inch Super Retina OLED Display",
+                "Face ID for secure authentication",
+                "Dual 12MP rear cameras with Portrait mode"
+            ],
+            "Specifications": {
+                "General": {
+                    "Release Date": "November 2017",
+                    "Form Factor": "Touchscreen",
+                    "Dimensions": "143.6 x 70.9 x 7.7 mm",
+                    "Weight": "174 grams",
+                    "Colours": "Space Gray, Silver"
+                },
+                "Display": {
+                    "Type": "Super Retina HD OLED",
+                    "Size": "5.8 inches",
+                    "Resolution": "1125 x 2436 pixels",
+                    "Aspect Ratio": "19.5:9",
+                    "Features": [
+                        "HDR10",
+                        "True Tone",
+                        "Wide color display"
+                    ]
+                },
+                "Performance": {
+                    "Processor": "Apple A11 Bionic",
+                    "CPU": "Hexa-core (2x high-performance, 4x high-efficiency)",
+                    "GPU": "Apple-designed GPU",
+                    "RAM": "3GB",
+                    "Internal_Storage": "64GB, 256GB"
+                },
+                "Camera": {
+                    "RearCamera": "12MP (Wide) + 12MP (Telephoto)",
+                    "RearCameraFeatures": [
+                        "2x optical zoom",
+                        "Portrait mode",
+                        "4K video recording"
+                    ],
+                    "FrontCamera": "7MP",
+                    "FrontCameraFeatures": [
+                        "Portrait mode",
+                        "1080p video recording",
+                        "Animoji"
+                    ]
+                },
+                "Battery": {
+                    "Capacity": "2716mAh",
+                    "Fast Charging": "Yes, 18W (adapter sold separately)",
+                    "Wireless Charging": "Yes, Qi-compatible"
+                },
+                "Connectivity": {
+                    "Wi-Fi": "Yes, Wi-Fi 802.11a/b/g/n/ac",
+                    "Bluetooth": "Yes, v5.0",
+                    "USB": "Yes, Lightning connector",
+                    "Headphone Jack": "No"
+                },
+                "Sensors": {
+                    "Face Unlock": "Yes (Face ID)",
+                    "Accelerometer": "Yes",
+                    "Proximity Sensor": "Yes",
+                    "Compass": "Yes",
+                    "Gyroscope": "Yes",
+                    "Touch ID": "No",
+                    "Barometer": "Yes"
+                },
+                "Software": {
+                    "Operating System": "iOS 11",
+                    "Features": [
+                        "Face ID",
+                        "Animoji",
+                        "Augmented Reality (AR)"
+                    ]
+                }
+            },
+            "Price": 999.00,
+            "DiscountPercentage": 0.0,
+            "Rating": 4.8,
+            "Stock": 0,
+            "Tags": [
+                "smartphone",
+                "Face ID",
+                "iOS"
+            ],
+            "Brand": "Apple",
+            "Sku": "IPX64GB",
+            "Weight": 0.174,
+            "Dimensions": {
+                "width": 7.09,
+                "height": 14.36,
+                "depth": 0.77
+            },
+            "WarrantyInformation": "1 year warranty",
+            "ShippingInformation": "Discontinued",
+            "AvailabilityStatus": "Out of Stock",
+            "ReturnPolicy": "N/A",
+            "MinimumOrderQuantity": 1
+        },
+        {
+            "Model": "iPhone XR",
+            "Description": "A more affordable iPhone with a Liquid Retina Display, Face ID, and the A12 Bionic chip.",
+            "Highlights": [
+                "6.1-inch Liquid Retina Display",
+                "Face ID for secure authentication",
+                "A12 Bionic chip with Neural Engine"
+            ],
+            "Specifications": {
+                "General": {
+                    "Release Date": "October 2018",
+                    "Form Factor": "Touchscreen",
+                    "Dimensions": "150.9 x 75.7 x 8.3 mm",
+                    "Weight": "194 grams",
+                    "Colours": "Black, White, Blue, Yellow, Coral, Red"
+                },
+                "Display": {
+                    "Type": "Liquid Retina IPS LCD",
+                    "Size": "6.1 inches",
+                    "Resolution": "828 x 1792 pixels",
+                    "Aspect Ratio": "19.5:9",
+                    "Features": [
+                        "True Tone",
+                        "Wide color display"
+                    ]
+                },
+                "Performance": {
+                    "Processor": "Apple A12 Bionic",
+                    "CPU": "Hexa-core (2x high-performance, 4x high-efficiency)",
+                    "GPU": "Apple-designed GPU",
+                    "RAM": "3GB",
+                    "Internal_Storage": "64GB, 128GB, 256GB"
+                },
+                "Camera": {
+                    "RearCamera": "12MP",
+                    "RearCameraFeatures": [
+                        "Smart HDR",
+                        "Portrait mode",
+                        "4K video recording"
+                    ],
+                    "FrontCamera": "7MP",
+                    "FrontCameraFeatures": [
+                        "Portrait mode",
+                        "1080p video recording",
+                        "Animoji"
+                    ]
+                },
+                "Battery": {
+                    "Capacity": "2942mAh",
+                    "Fast Charging": "Yes, 18W (adapter sold separately)",
+                    "Wireless Charging": "Yes, Qi-compatible"
+                },
+                "Connectivity": {
+                    "Wi-Fi": "Yes, Wi-Fi 802.11a/b/g/n/ac",
+                    "Bluetooth": "Yes, v5.0",
+                    "USB": "Yes, Lightning connector",
+                    "Headphone Jack": "No"
+                },
+                "Sensors": {
+                    "Face Unlock": "Yes (Face ID)",
+                    "Accelerometer": "Yes",
+                    "Proximity Sensor": "Yes",
+                    "Compass": "Yes",
+                    "Gyroscope": "Yes",
+                    "Touch ID": "No",
+                    "Barometer": "Yes"
+                },
+                "Software": {
+                    "Operating System": "iOS 12",
+                    "Features": [
+                        "Face ID",
+                        "Animoji",
+                        "Augmented Reality (AR)"
+                    ]
+                }
+            },
+            "Price": 749.00,
+            "DiscountPercentage": 0.0,
+            "Rating": 4.7,
+            "Stock": 0,
+            "Tags": [
+                "smartphone",
+                "Face ID",
+                "iOS"
+            ],
+            "Brand": "Apple",
+            "Sku": "IPXR64GB",
+            "Weight": 0.194,
+            "Dimensions": {
+                "width": 7.57,
+                "height": 15.09,
+                "depth": 0.83
+            },
+            "WarrantyInformation": "1 year warranty",
+            "ShippingInformation": "Discontinued",
+            "AvailabilityStatus": "Out of Stock",
+            "ReturnPolicy": "N/A",
+            "MinimumOrderQuantity": 1
+        },
+        {
+            "Model": "iPhone XS",
+            "Description": "The flagship iPhone with a Super Retina Display, Face ID, and the A12 Bionic chip.",
+            "Highlights": [
+                "5.8-inch Super Retina OLED Display",
+                "Face ID for secure authentication",
+                "Dual 12MP rear cameras with Smart HDR"
+            ],
+            "Specifications": {
+                "General": {
+                    "Release Date": "September 2018",
+                    "Form Factor": "Touchscreen",
+                    "Dimensions": "143.6 x 70.9 x 7.7 mm",
+                    "Weight": "177 grams",
+                    "Colours": "Space Gray, Silver, Gold"
+                },
+                "Display": {
+                    "Type": "Super Retina HD OLED",
+                    "Size": "5.8 inches",
+                    "Resolution": "1125 x 2436 pixels",
+                    "Aspect Ratio": "19.5:9",
+                    "Features": [
+                        "HDR10",
+                        "True Tone",
+                        "Wide color display"
+                    ]
+                },
+                "Performance": {
+                    "Processor": "Apple A12 Bionic",
+                    "CPU": "Hexa-core (2x high-performance, 4x high-efficiency)",
+                    "GPU": "Apple-designed GPU",
+                    "RAM": "4GB",
+                    "Internal_Storage": "64GB, 256GB, 512GB"
+                },
+                "Camera": {
+                    "RearCamera": "12MP (Wide) + 12MP (Telephoto)",
+                    "RearCameraFeatures": [
+                        "2x optical zoom",
+                        "Smart HDR",
+                        "4K video recording"
+                    ],
+                    "FrontCamera": "7MP",
+                    "FrontCameraFeatures": [
+                        "Portrait mode",
+                        "1080p video recording",
+                        "Animoji"
+                    ]
+                },
+                "Battery": {
+                    "Capacity": "2658mAh",
+                    "Fast Charging": "Yes, 18W (adapter sold separately)",
+                    "Wireless Charging": "Yes, Qi-compatible"
+                },
+                "Connectivity": {
+                    "Wi-Fi": "Yes, Wi-Fi 802.11a/b/g/n/ac",
+                    "Bluetooth": "Yes, v5.0",
+                    "USB": "Yes, Lightning connector",
+                    "Headphone Jack": "No"
+                },
+                "Sensors": {
+                    "Face Unlock": "Yes (Face ID)",
+                    "Accelerometer": "Yes",
+                    "Proximity Sensor": "Yes",
+                    "Compass": "Yes",
+                    "Gyroscope": "Yes",
+                    "Touch ID": "No",
+                    "Barometer": "Yes"
+                },
+                "Software": {
+                    "Operating System": "iOS 12",
+                    "Features": [
+                        "Face ID",
+                        "Animoji",
+                        "Augmented Reality (AR)"
+                    ]
+                }
+            },
+            "Price": 999.00,
+            "DiscountPercentage": 0.0,
+            "Rating": 4.8,
+            "Stock": 0,
+            "Tags": [
+                "smartphone",
+                "Face ID",
+                "iOS"
+            ],
+            "Brand": "Apple",
+            "Sku": "IPXS64GB",
+            "Weight": 0.177,
+            "Dimensions": {
+                "width": 7.09,
+                "height": 14.36,
+                "depth": 0.77
+            },
+            "WarrantyInformation": "1 year warranty",
+            "ShippingInformation": "Discontinued",
+            "AvailabilityStatus": "Out of Stock",
+            "ReturnPolicy": "N/A",
+            "MinimumOrderQuantity": 1
+        },
+        {
+            "Model": "iPhone XS Max",
+            "Description": "The larger variant of the iPhone XS with a 6.5-inch Super Retina Display and dual cameras.",
+            "Highlights": [
+                "6.5-inch Super Retina OLED Display",
+                "Face ID for secure authentication",
+                "Dual 12MP rear cameras with Smart HDR"
+            ],
+            "Specifications": {
+                "General": {
+                    "Release Date": "September 2018",
+                    "Form Factor": "Touchscreen",
+                    "Dimensions": "157.5 x 77.4 x 7.7 mm",
+                    "Weight": "208 grams",
+                    "Colours": "Space Gray, Silver, Gold"
+                },
+                "Display": {
+                    "Type": "Super Retina HD OLED",
+                    "Size": "6.5 inches",
+                    "Resolution": "1242 x 2688 pixels",
+                    "Aspect Ratio": "19.5:9",
+                    "Features": [
+                        "HDR10",
+                        "True Tone",
+                        "Wide color display"
+                    ]
+                },
+                "Performance": {
+                    "Processor": "Apple A12 Bionic",
+                    "CPU": "Hexa-core (2x high-performance, 4x high-efficiency)",
+                    "GPU": "Apple-designed GPU",
+                    "RAM": "4GB",
+                    "Internal_Storage": "64GB, 256GB, 512GB"
+                },
+                "Camera": {
+                    "RearCamera": "12MP (Wide) + 12MP (Telephoto)",
+                    "RearCameraFeatures": [
+                        "2x optical zoom",
+                        "Smart HDR",
+                        "4K video recording"
+                    ],
+                    "FrontCamera": "7MP",
+                    "FrontCameraFeatures": [
+                        "Portrait mode",
+                        "1080p video recording",
+                        "Animoji"
+                    ]
+                },
+                "Battery": {
+                    "Capacity": "3174mAh",
+                    "Fast Charging": "Yes, 18W (adapter sold separately)",
+                    "Wireless Charging": "Yes, Qi-compatible"
+                },
+                "Connectivity": {
+                    "Wi-Fi": "Yes, Wi-Fi 802.11a/b/g/n/ac",
+                    "Bluetooth": "Yes, v5.0",
+                    "USB": "Yes, Lightning connector",
+                    "Headphone Jack": "No"
+                },
+                "Sensors": {
+                    "Face Unlock": "Yes (Face ID)",
+                    "Accelerometer": "Yes",
+                    "Proximity Sensor": "Yes",
+                    "Compass": "Yes",
+                    "Gyroscope": "Yes",
+                    "Touch ID": "No",
+                    "Barometer": "Yes"
+                },
+                "Software": {
+                    "Operating System": "iOS 12",
+                    "Features": [
+                        "Face ID",
+                        "Animoji",
+                        "Augmented Reality (AR)"
+                    ]
+                }
+            },
+            "Price": 1099.00,
+            "DiscountPercentage": 0.0,
+            "Rating": 4.8,
+            "Stock": 0,
+            "Tags": [
+                "smartphone",
+                "Face ID",
+                "iOS"
+            ],
+            "Brand": "Apple",
+            "Sku": "IPXSMAX64GB",
+            "Weight": 0.208,
+            "Dimensions": {
+                "width": 7.74,
+                "height": 15.75,
+                "depth": 0.77
+            },
+            "WarrantyInformation": "1 year warranty",
+            "ShippingInformation": "Discontinued",
+            "AvailabilityStatus": "Out of Stock",
+            "ReturnPolicy": "N/A",
+            "MinimumOrderQuantity": 1
+        },
+        {
+            "Model": "iPhone 11",
+            "Description": "A more affordable iPhone with a dual-camera system, Night Mode, and the A13 Bionic chip.",
+            "Highlights": [
+                "6.1-inch Liquid Retina Display",
+                "Dual 12MP rear cameras with Night Mode",
+                "A13 Bionic chip with Neural Engine"
+            ],
+            "Specifications": {
+                "General": {
+                    "Release Date": "September 2019",
+                    "Form Factor": "Touchscreen",
+                    "Dimensions": "150.9 x 75.7 x 8.3 mm",
+                    "Weight": "194 grams",
+                    "Colours": "Purple, Green, Yellow, Black, White, Red"
+                },
+                "Display": {
+                    "Type": "Liquid Retina IPS LCD",
+                    "Size": "6.1 inches",
+                    "Resolution": "828 x 1792 pixels",
+                    "Aspect Ratio": "19.5:9",
+                    "Features": [
+                        "True Tone",
+                        "Wide color display"
+                    ]
+                },
+                "Performance": {
+                    "Processor": "Apple A13 Bionic",
+                    "CPU": "Hexa-core (2x high-performance, 4x high-efficiency)",
+                    "GPU": "Apple-designed GPU",
+                    "RAM": "4GB",
+                    "Internal_Storage": "64GB, 128GB, 256GB"
+                },
+                "Camera": {
+                    "RearCamera": "12MP (Wide) + 12MP (Ultra Wide)",
+                    "RearCameraFeatures": [
+                        "Night Mode",
+                        "Smart HDR",
+                        "4K video recording"
+                    ],
+                    "FrontCamera": "12MP",
+                    "FrontCameraFeatures": [
+                        "4K video recording",
+                        "Slow-motion selfies"
+                    ]
+                },
+                "Battery": {
+                    "Capacity": "3110mAh",
+                    "Fast Charging": "Yes, 18W (adapter sold separately)",
+                    "Wireless Charging": "Yes, Qi-compatible"
+                },
+                "Connectivity": {
+                    "Wi-Fi": "Yes, Wi-Fi 802.11a/b/g/n/ac/ax",
+                    "Bluetooth": "Yes, v5.0",
+                    "USB": "Yes, Lightning connector",
+                    "Headphone Jack": "No"
+                },
+                "Sensors": {
+                    "Face Unlock": "Yes (Face ID)",
+                    "Accelerometer": "Yes",
+                    "Proximity Sensor": "Yes",
+                    "Compass": "Yes",
+                    "Gyroscope": "Yes",
+                    "Touch ID": "No",
+                    "Barometer": "Yes"
+                },
+                "Software": {
+                    "Operating System": "iOS 13",
+                    "Features": [
+                        "Night Mode",
+                        "QuickTake video",
+                        "Spatial Audio"
+                    ]
+                }
+            },
+            "Price": 699.00,
+            "DiscountPercentage": 0.0,
+            "Rating": 4.7,
+            "Stock": 0,
+            "Tags": [
+                "smartphone",
+                "dual-camera",
+                "iOS"
+            ],
+            "Brand": "Apple",
+            "Sku": "IP1164GB",
+            "Weight": 0.194,
+            "Dimensions": {
+                "width": 7.57,
+                "height": 15.09,
+                "depth": 0.83
+            },
+            "WarrantyInformation": "1 year warranty",
+            "ShippingInformation": "Discontinued",
+            "AvailabilityStatus": "Out of Stock",
+            "ReturnPolicy": "N/A",
+            "MinimumOrderQuantity": 1
+        },
+        {
+            "Model": "iPhone 11 Pro",
+            "Description": "The flagship iPhone with a triple-camera system, Super Retina XDR Display, and the A13 Bionic chip.",
+            "Highlights": [
+                "5.8-inch Super Retina XDR Display",
+                "Triple 12MP rear cameras with Night Mode",
+                "A13 Bionic chip with Neural Engine"
+            ],
+            "Specifications": {
+                "General": {
+                    "Release Date": "September 2019",
+                    "Form Factor": "Touchscreen",
+                    "Dimensions": "144 x 71.4 x 8.1 mm",
+                    "Weight": "188 grams",
+                    "Colours": "Midnight Green, Space Gray, Silver, Gold"
+                },
+                "Display": {
+                    "Type": "Super Retina XDR OLED",
+                    "Size": "5.8 inches",
+                    "Resolution": "1125 x 2436 pixels",
+                    "Aspect Ratio": "19.5:9",
+                    "Features": [
+                        "HDR10",
+                        "True Tone",
+                        "Wide color display"
+                    ]
+                },
+                "Performance": {
+                    "Processor": "Apple A13 Bionic",
+                    "CPU": "Hexa-core (2x high-performance, 4x high-efficiency)",
+                    "GPU": "Apple-designed GPU",
+                    "RAM": "4GB",
+                    "Internal_Storage": "64GB, 256GB, 512GB"
+                },
+                "Camera": {
+                    "RearCamera": "12MP (Wide) + 12MP (Ultra Wide) + 12MP (Telephoto)",
+                    "RearCameraFeatures": [
+                        "Night Mode",
+                        "Smart HDR",
+                        "4K video recording"
+                    ],
+                    "FrontCamera": "12MP",
+                    "FrontCameraFeatures": [
+                        "4K video recording",
+                        "Slow-motion selfies"
+                    ]
+                },
+                "Battery": {
+                    "Capacity": "3046mAh",
+                    "Fast Charging": "Yes, 18W (adapter included)",
+                    "Wireless Charging": "Yes, Qi-compatible"
+                },
+                "Connectivity": {
+                    "Wi-Fi": "Yes, Wi-Fi 802.11a/b/g/n/ac/ax",
+                    "Bluetooth": "Yes, v5.0",
+                    "USB": "Yes, Lightning connector",
+                    "Headphone Jack": "No"
+                },
+                "Sensors": {
+                    "Face Unlock": "Yes (Face ID)",
+                    "Accelerometer": "Yes",
+                    "Proximity Sensor": "Yes",
+                    "Compass": "Yes",
+                    "Gyroscope": "Yes",
+                    "Touch ID": "No",
+                    "Barometer": "Yes"
+                },
+                "Software": {
+                    "Operating System": "iOS 13",
+                    "Features": [
+                        "Night Mode",
+                        "QuickTake video",
+                        "Spatial Audio"
+                    ]
+                }
+            },
+            "Price": 999.00,
+            "DiscountPercentage": 0.0,
+            "Rating": 4.8,
+            "Stock": 0,
+            "Tags": [
+                "smartphone",
+                "triple-camera",
+                "iOS"
+            ],
+            "Brand": "Apple",
+            "Sku": "IP11P64GB",
+            "Weight": 0.188,
+            "Dimensions": {
+                "width": 7.14,
+                "height": 14.4,
+                "depth": 0.81
+            },
+            "WarrantyInformation": "1 year warranty",
+            "ShippingInformation": "Discontinued",
+            "AvailabilityStatus": "Out of Stock",
+            "ReturnPolicy": "N/A",
+            "MinimumOrderQuantity": 1
+        },
+        {
+            "Model": "iPhone 11 Pro Max",
+            "Description": "The larger variant of the iPhone 11 Pro with a 6.5-inch Super Retina XDR Display and triple cameras.",
+            "Highlights": [
+                "6.5-inch Super Retina XDR Display",
+                "Triple 12MP rear cameras with Night Mode",
+                "A13 Bionic chip with Neural Engine"
+            ],
+            "Specifications": {
+                "General": {
+                    "Release Date": "September 2019",
+                    "Form Factor": "Touchscreen",
+                    "Dimensions": "158 x 77.8 x 8.1 mm",
+                    "Weight": "226 grams",
+                    "Colours": "Midnight Green, Space Gray, Silver, Gold"
+                },
+                "Display": {
+                    "Type": "Super Retina XDR OLED",
+                    "Size": "6.5 inches",
+                    "Resolution": "1242 x 2688 pixels",
+                    "Aspect Ratio": "19.5:9",
+                    "Features": [
+                        "HDR10",
+                        "True Tone",
+                        "Wide color display"
+                    ]
+                },
+                "Performance": {
+                    "Processor": "Apple A13 Bionic",
+                    "CPU": "Hexa-core (2x high-performance, 4x high-efficiency)",
+                    "GPU": "Apple-designed GPU",
+                    "RAM": "4GB",
+                    "Internal_Storage": "64GB, 256GB, 512GB"
+                },
+                "Camera": {
+                    "RearCamera": "12MP (Wide) + 12MP (Ultra Wide) + 12MP (Telephoto)",
+                    "RearCameraFeatures": [
+                        "Night Mode",
+                        "Smart HDR",
+                        "4K video recording"
+                    ],
+                    "FrontCamera": "12MP",
+                    "FrontCameraFeatures": [
+                        "4K video recording",
+                        "Slow-motion selfies"
+                    ]
+                },
+                "Battery": {
+                    "Capacity": "3969mAh",
+                    "Fast Charging": "Yes, 18W (adapter included)",
+                    "Wireless Charging": "Yes, Qi-compatible"
+                },
+                "Connectivity": {
+                    "Wi-Fi": "Yes, Wi-Fi 802.11a/b/g/n/ac/ax",
+                    "Bluetooth": "Yes, v5.0",
+                    "USB": "Yes, Lightning connector",
+                    "Headphone Jack": "No"
+                },
+                "Sensors": {
+                    "Face Unlock": "Yes (Face ID)",
+                    "Accelerometer": "Yes",
+                    "Proximity Sensor": "Yes",
+                    "Compass": "Yes",
+                    "Gyroscope": "Yes",
+                    "Touch ID": "No",
+                    "Barometer": "Yes"
+                },
+                "Software": {
+                    "Operating System": "iOS 13",
+                    "Features": [
+                        "Night Mode",
+                        "QuickTake video",
+                        "Spatial Audio"
+                    ]
+                }
+            },
+            "Price": 1099.00,
+            "DiscountPercentage": 0.0,
+            "Rating": 4.8,
+            "Stock": 0,
+            "Tags": [
+                "smartphone",
+                "triple-camera",
+                "iOS"
+            ],
+            "Brand": "Apple",
+            "Sku": "IP11PM64GB",
+            "Weight": 0.226,
+            "Dimensions": {
+                "width": 7.78,
+                "height": 15.8,
+                "depth": 0.81
+            },
+            "WarrantyInformation": "1 year warranty",
+            "ShippingInformation": "Discontinued",
+            "AvailabilityStatus": "Out of Stock",
+            "ReturnPolicy": "N/A",
+            "MinimumOrderQuantity": 1
+        }
+    ]
+}
